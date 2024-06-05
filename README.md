@@ -5,13 +5,6 @@ Research report written by: Mahmoud Alhousseiny, Tacoma Jones, Mason Keziah, Gra
 
 Models/Tools used include: XG-Boost, Random Forest, ArcGIS
 
-In Charlotte, NC, predictive policing can strategically address the surge in vehicle thefts,
-particularly at private residences, thereby enhancing the efficiency of resource distribution and
-the effectiveness of preventative measures. A strong correlation exists between socioeconomic
-indicators such as poverty and unemployment rates and the incidence of vehicle-related theft;
-targeted interventions in these areas may lead to a decline in crime rate. Incorporating and refining predictive policing models can result in favorable outcomes in the future.
-
-
 Key Takeaways:
 
 In Charlotte, NC, predictive policing can strategically address the surge in vehicle thefts,
